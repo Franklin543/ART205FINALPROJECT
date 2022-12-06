@@ -396,7 +396,7 @@
 }
 
 
-@media only screen and (min-width: 480px ){
+@media only screen and (min-width: 470px ){
 
     .tagline-ul li {
         padding-left: 2px;
@@ -423,3 +423,4 @@
     
     
 }
+
